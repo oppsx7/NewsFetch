@@ -1,0 +1,20 @@
+PODS:
+  - DocumentClassifier (1.2.0)
+  - Kingfisher (4.7.0)
+
+DEPENDENCIES:
+  - DocumentClassifier (= 1.2.0)
+  - Kingfisher (= 4.7.0)
+
+SPEC REPOS:
+  trunk:
+    - DocumentClassifier
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  DocumentClassifier: a32b4d0dbcd0c38ec9ef16949c184923e16d818a
+  Kingfisher: da6b005aa96d37698e3e4f1ccfe96a5b9bbf27d6
+
+PODFILE CHECKSUM: 04370af7dff67a3036bc7a788a4518f2b8f069a5
+
+COCOAPODS: 1.11.2

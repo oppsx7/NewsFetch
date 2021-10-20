@@ -1,0 +1,6 @@
+framework module Pods_NewsCoreML {
+  umbrella header "Pods-NewsCoreML-umbrella.h"
+
+  export *
+  module * { export * }
+}
